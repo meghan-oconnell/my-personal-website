@@ -3,4 +3,5 @@
   "name": "my-personal-site",
   "compatibility_date": "2026-11-15",
   "assets": { "directory": "./dist" },
+  "workers_dev": false,
 }
